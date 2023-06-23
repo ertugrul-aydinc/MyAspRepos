@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/ControllerExamples/wwwroot/notlar.pdf",
+      "PackagePath": "staticwebassets/notlar.pdf"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.ControllerExamples.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.ControllerExamples.props",
+      "PackagePath": "build\\ControllerExamples.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ControllerExamples.props",
+      "PackagePath": "buildMultiTargeting\\ControllerExamples.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ControllerExamples.props",
+      "PackagePath": "buildTransitive\\ControllerExamples.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,25 @@
+﻿@model CityWeather
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>City Details for @Model.CityName</title>
+        <meta charset="utf-8" />
+        <link href="~/StyleSheet.css" rel="stylesheet"/>
+    </head>
+
+    <body>
+        <div class="page-content">
+
+            <div class="box w-50">
+                @Model.CityName
+                @Model.CityUniqueCode
+                @Model.DateAndTime?.ToString("dd-mm-yyyy")
+                @Model.TemperatureFahrenheit
+            </div>
+
+            <a href="/">Back to Weather Home Page</a>
+        </div>
+    </body>
+</html>

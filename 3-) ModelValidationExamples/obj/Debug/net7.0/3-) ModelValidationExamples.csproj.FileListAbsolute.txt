@@ -1,0 +1,26 @@
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/bin/Debug/net7.0/appsettings.Development.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/bin/Debug/net7.0/appsettings.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/bin/Debug/net7.0/3-) ModelValidationExamples
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/bin/Debug/net7.0/3-) ModelValidationExamples.deps.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/bin/Debug/net7.0/3-) ModelValidationExamples.runtimeconfig.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/bin/Debug/net7.0/3-) ModelValidationExamples.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/bin/Debug/net7.0/3-) ModelValidationExamples.pdb
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/obj/Debug/net7.0/3-) ModelValidationExamples.csproj.AssemblyReference.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/obj/Debug/net7.0/3-) ModelValidationExamples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/obj/Debug/net7.0/3-) ModelValidationExamples.AssemblyInfoInputs.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/obj/Debug/net7.0/3-) ModelValidationExamples.AssemblyInfo.cs
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/obj/Debug/net7.0/3-) ModelValidationExamples.csproj.CoreCompileInputs.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/obj/Debug/net7.0/3-) ModelValidationExamples.MvcApplicationPartsAssemblyInfo.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/obj/Debug/net7.0/staticwebassets/msbuild.3-) ModelValidationExamples.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/obj/Debug/net7.0/staticwebassets/msbuild.build.3-) ModelValidationExamples.props
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.3-) ModelValidationExamples.props
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.3-) ModelValidationExamples.props
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/obj/Debug/net7.0/scopedcss/bundle/3-) ModelValidationExamples.styles.css
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/obj/Debug/net7.0/3-) ModelValidationExamples.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/obj/Debug/net7.0/refint/3-) ModelValidationExamples.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/obj/Debug/net7.0/3-) ModelValidationExamples.pdb
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/obj/Debug/net7.0/3-) ModelValidationExamples.genruntimeconfig.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/obj/Debug/net7.0/ref/3-) ModelValidationExamples.dll

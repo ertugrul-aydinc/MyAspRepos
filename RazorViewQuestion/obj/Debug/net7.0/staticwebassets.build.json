@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "wP6BS5LJjdXf57Bd7s9+RgG52h3so8il8Y3MvDfGMQE=",
+  "Source": "5-) RazorViewQuestion",
+  "BasePath": "_content/5-) RazorViewQuestion",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "5-) RazorViewQuestion/wwwroot",
+      "Source": "5-) RazorViewQuestion",
+      "ContentRoot": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/wwwroot/",
+      "BasePath": "_content/5-) RazorViewQuestion",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/wwwroot/StyleSheet.css",
+      "SourceId": "5-) RazorViewQuestion",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/wwwroot/",
+      "BasePath": "_content/5-) RazorViewQuestion",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/StyleSheet.css"
+    }
+  ]
+}

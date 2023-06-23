@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "lCVHZnNoqKG4lV8E5icHJ6P/yYbuSsRRJJOZDcFBhAM=",
+  "Source": "ControllerQuestion",
+  "BasePath": "_content/ControllerQuestion",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ControllerQuestion/wwwroot",
+      "Source": "ControllerQuestion",
+      "ContentRoot": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/ControllerQuestion/wwwroot/",
+      "BasePath": "_content/ControllerQuestion",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/ControllerQuestion/wwwroot/notlar.pdf",
+      "SourceId": "ControllerQuestion",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/ControllerQuestion/wwwroot/",
+      "BasePath": "_content/ControllerQuestion",
+      "RelativePath": "notlar.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/notlar.pdf"
+    }
+  ]
+}

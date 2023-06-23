@@ -1,0 +1,28 @@
+﻿@model IEnumerable<CityWeather>
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>City Weather App</title>
+        <meta charset="utf-8" />
+        <link href="~/StyleSheet.css" rel="stylesheet"/>
+    </head>
+
+    <body>
+        <div class="page-content">
+
+            @foreach (var item in Model)
+                {
+                    <div class="box w-30">
+                        @item.CityName
+                        @item.CityUniqueCode
+                        @item.DateAndTime?.ToShortTimeString()
+                        @item.TemperatureFahrenheit
+                    </div>
+                    <a href="/details/@item.CityUniqueCode">Details</a>
+                }
+
+        </div>
+    </body>
+</html>

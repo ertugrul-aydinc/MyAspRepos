@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/4-) ModelValidationQuestion.props" />
+</Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ModelValidationQuestion/1.0.0": {
+        "runtime": {
+          "ModelValidationQuestion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ModelValidationQuestion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
