@@ -124,7 +124,7 @@ namespace ControllerExamples.Controllers
                 //Response.StatusCode = 404;
                 //return Content("Book id can't ve greater than 1000");
 
-                return NotFound("Book id can't ve greater than 1000");
+                return NotFound("Book id can't be greater than 1000");
             }
 
             if (!Convert.ToBoolean(Request.Query["isloggedin"]))

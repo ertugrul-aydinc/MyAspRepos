@@ -31,7 +31,7 @@ namespace _3___ModelValidationExamples.CustomValidators
 
 					if(from_date > to_date)
 					{
-						return new ValidationResult(ErrorMessage, new string[] {OtherPropertyName, validationContext.MemberName });
+						return new ValidationResult(ErrorMessage, new string[] {OtherPropertyName, validationContext.MemberName!});
 					}
 
 					return ValidationResult.Success;

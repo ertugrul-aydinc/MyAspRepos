@@ -20,9 +20,7 @@ namespace _ModelValidationQuestion.CustomValidators
                 List<Product> products = (List<Product>)value;
 
                 if (products.Count == 0)
-                {
                     return new ValidationResult(ErrorMessage ?? DefaultErrorMessage, new[] { nameof(validationContext.MemberName) });
-                }
 
                 return ValidationResult.Success;
             }
