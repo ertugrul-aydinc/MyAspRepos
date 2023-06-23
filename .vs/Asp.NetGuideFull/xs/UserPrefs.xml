@@ -1,33 +1,31 @@
 ﻿<Properties StartupConfiguration="{99ECE164-1EEF-4A95-A45D-7962AD76EB7A}|http">
-  <MonoDevelop.Ide.ItemProperties.4-_229_220ModelValidationQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.5-_229_220RazorViewQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.3-_229_220ModelValidationExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ModelValidationQuestion/CustomValidators/TotalPriceValidatorAttribute.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="ModelValidationQuestion/CustomValidators/MinYearValidatorAttribute.cs" Line="14" Column="1" />
-      <File FileName="ModelValidationQuestion/CustomValidators/ProductsListValidatorAttribute.cs" Line="1" Column="1" />
-      <File FileName="ModelValidationQuestion/CustomValidators/TotalPriceValidatorAttribute.cs" Line="1" Column="1" />
+      <File FileName="ModelValidationQuestion/CustomValidators/MinYearValidatorAttribute.cs" />
+      <File FileName="ModelValidationQuestion/CustomValidators/ProductsListValidatorAttribute.cs" />
+      <File FileName="ModelValidationQuestion/CustomValidators/TotalPriceValidatorAttribute.cs" Line="13" Column="46" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Asp.NetGuideFull" expanded="True">
+          <Node name="Asp.NetGuideFull" selected="True">
             <Node name="4-) ModelValidationQuestion" expanded="True">
-              <Node name="CustomValidators" expanded="True">
-                <Node name="TotalPriceValidatorAttribute.cs" selected="True" />
-              </Node>
+              <Node name="CustomValidators" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.1-_229_220ControllerExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.2-_229_220ControllerQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.4-_229_220ModelValidationQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.1-_229_220ControllerExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
