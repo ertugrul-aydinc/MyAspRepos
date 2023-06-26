@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-) ModelValidationQuestion
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-) RazorViewQuestion", "RazorViewQuestion\5-) RazorViewQuestion.csproj", "{99ECE164-1EEF-4A95-A45D-7962AD76EB7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-) ViewComonentResultExamples", "6-) ViewComonentResultExamples\6-) ViewComonentResultExamples.csproj", "{378CBA07-1C2B-42E8-A22D-01EFC04A9DE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{99ECE164-1EEF-4A95-A45D-7962AD76EB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99ECE164-1EEF-4A95-A45D-7962AD76EB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99ECE164-1EEF-4A95-A45D-7962AD76EB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{378CBA07-1C2B-42E8-A22D-01EFC04A9DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378CBA07-1C2B-42E8-A22D-01EFC04A9DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378CBA07-1C2B-42E8-A22D-01EFC04A9DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378CBA07-1C2B-42E8-A22D-01EFC04A9DE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

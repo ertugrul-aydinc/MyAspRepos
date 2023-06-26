@@ -1,29 +1,46 @@
-﻿<Properties StartupConfiguration="{E4CE5B08-7195-4FFD-A56F-2C97FBDAAD3A}|http">
-  <MonoDevelop.Ide.ItemProperties.1-_229_220ControllerExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
+﻿<Properties StartupConfiguration="{378CBA07-1C2B-42E8-A22D-01EFC04A9DE6}|http">
+  <MonoDevelop.Ide.ItemProperties.5-_229_220RazorViewQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.4-_229_220ModelValidationQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.4-_229_220ModelValidationQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="RazorViewQuestion/Controllers/CityWeathersController.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="6-) ViewComonentResultExamples/Controllers/HomeController.cs">
     <Files>
-      <File FileName="RazorViewQuestion/Controllers/CityWeathersController.cs" Line="38" Column="2" />
+      <File FileName="6-) ViewComonentResultExamples/Controllers/HomeController.cs" Line="23" Column="11" />
+      <File FileName="6-) ViewComonentResultExamples/ViewComponents/GridViewComponent.cs" Line="16" Column="1" />
+      <File FileName="6-) ViewComonentResultExamples/Views/Shared/Components/Grid/Default.cshtml" Line="3" Column="26" />
+      <File FileName="6-) ViewComonentResultExamples/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="6-) ViewComonentResultExamples/wwwroot/friends.js" Line="7" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Asp.NetGuideFull" selected="True">
-            <Node name="5-) RazorViewQuestion">
+          <Node name="Asp.NetGuideFull" expanded="True">
+            <Node name="6-) ViewComonentResultExamples">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
               <Node name="Models" expanded="True" />
+              <Node name="ViewComponents" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="Grid" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.2-_229_220ControllerQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.3-_229_220ModelValidationExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.5-_229_220RazorViewQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.1-_229_220ControllerExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.6-_229_220ViewComonentResultExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.2-_229_220ControllerQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

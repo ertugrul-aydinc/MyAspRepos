@@ -1,0 +1,10 @@
+﻿using System;
+namespace _6___ViewComonentResultExamples.Models
+{
+	public class PersonGridModel
+	{
+		public string GridTitle { get; set; } = "";
+		public List<Person> Persons { get; set; } = new List<Person>();
+	}
+}
+

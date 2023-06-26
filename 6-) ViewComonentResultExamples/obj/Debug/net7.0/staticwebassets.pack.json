@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/wwwroot/friends.js",
+      "PackagePath": "staticwebassets/friends.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.6-) ViewComonentResultExamples.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.6-) ViewComonentResultExamples.props",
+      "PackagePath": "build\\6-) ViewComonentResultExamples.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.6-) ViewComonentResultExamples.props",
+      "PackagePath": "buildMultiTargeting\\6-) ViewComonentResultExamples.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.6-) ViewComonentResultExamples.props",
+      "PackagePath": "buildTransitive\\6-) ViewComonentResultExamples.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,29 @@
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/bin/Debug/net7.0/appsettings.Development.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/bin/Debug/net7.0/appsettings.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/bin/Debug/net7.0/6-) ViewComonentResultExamples
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/bin/Debug/net7.0/6-) ViewComonentResultExamples.deps.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/bin/Debug/net7.0/6-) ViewComonentResultExamples.runtimeconfig.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/bin/Debug/net7.0/6-) ViewComonentResultExamples.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/bin/Debug/net7.0/6-) ViewComonentResultExamples.pdb
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/obj/Debug/net7.0/6-) ViewComonentResultExamples.csproj.AssemblyReference.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/obj/Debug/net7.0/6-) ViewComonentResultExamples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/obj/Debug/net7.0/6-) ViewComonentResultExamples.AssemblyInfoInputs.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/obj/Debug/net7.0/6-) ViewComonentResultExamples.AssemblyInfo.cs
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/obj/Debug/net7.0/6-) ViewComonentResultExamples.csproj.CoreCompileInputs.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/obj/Debug/net7.0/6-) ViewComonentResultExamples.MvcApplicationPartsAssemblyInfo.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/obj/Debug/net7.0/6-) ViewComonentResultExamples.RazorAssemblyInfo.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/obj/Debug/net7.0/6-) ViewComonentResultExamples.RazorAssemblyInfo.cs
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/obj/Debug/net7.0/staticwebassets/msbuild.6-) ViewComonentResultExamples.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/obj/Debug/net7.0/staticwebassets/msbuild.build.6-) ViewComonentResultExamples.props
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.6-) ViewComonentResultExamples.props
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.6-) ViewComonentResultExamples.props
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/obj/Debug/net7.0/scopedcss/bundle/6-) ViewComonentResultExamples.styles.css
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/obj/Debug/net7.0/6-) ViewComonentResultExamples.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/obj/Debug/net7.0/refint/6-) ViewComonentResultExamples.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/obj/Debug/net7.0/6-) ViewComonentResultExamples.pdb
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/obj/Debug/net7.0/6-) ViewComonentResultExamples.genruntimeconfig.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/obj/Debug/net7.0/ref/6-) ViewComonentResultExamples.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/bin/Debug/net7.0/6-) ViewComonentResultExamples.staticwebassets.runtime.json

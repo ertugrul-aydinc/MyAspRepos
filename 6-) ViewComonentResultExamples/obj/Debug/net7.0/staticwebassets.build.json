@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "L+r04B4ibBI5tmN/CS3XZ5K9qK556lF/ae67lN+JZ5s=",
+  "Source": "6-) ViewComonentResultExamples",
+  "BasePath": "_content/6-) ViewComonentResultExamples",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "6-) ViewComonentResultExamples/wwwroot",
+      "Source": "6-) ViewComonentResultExamples",
+      "ContentRoot": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/wwwroot/",
+      "BasePath": "_content/6-) ViewComonentResultExamples",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/wwwroot/friends.js",
+      "SourceId": "6-) ViewComonentResultExamples",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/6-) ViewComonentResultExamples/wwwroot/",
+      "BasePath": "_content/6-) ViewComonentResultExamples",
+      "RelativePath": "friends.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/friends.js"
+    }
+  ]
+}
