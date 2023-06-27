@@ -1,27 +1,27 @@
 {
   "Version": 1,
-  "Hash": "lCVHZnNoqKG4lV8E5icHJ6P/yYbuSsRRJJOZDcFBhAM=",
-  "Source": "ControllerQuestion",
-  "BasePath": "_content/ControllerQuestion",
+  "Hash": "uWQNDnZEe5vqejfZuSKieyD0sLd7E/2zCNuIyZbYQ3k=",
+  "Source": "2-) ControllerQuestion",
+  "BasePath": "_content/2-) ControllerQuestion",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "ControllerQuestion/wwwroot",
-      "Source": "ControllerQuestion",
+      "Name": "2-) ControllerQuestion/wwwroot",
+      "Source": "2-) ControllerQuestion",
       "ContentRoot": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/ControllerQuestion/wwwroot/",
-      "BasePath": "_content/ControllerQuestion",
+      "BasePath": "_content/2-) ControllerQuestion",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
       "Identity": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/ControllerQuestion/wwwroot/notlar.pdf",
-      "SourceId": "ControllerQuestion",
+      "SourceId": "2-) ControllerQuestion",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/ControllerQuestion/wwwroot/",
-      "BasePath": "_content/ControllerQuestion",
+      "BasePath": "_content/2-) ControllerQuestion",
       "RelativePath": "notlar.pdf",
       "AssetKind": "All",
       "AssetMode": "All",

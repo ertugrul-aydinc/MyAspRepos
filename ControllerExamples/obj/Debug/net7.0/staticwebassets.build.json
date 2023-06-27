@@ -1,27 +1,27 @@
 {
   "Version": 1,
-  "Hash": "gLPvn3tEa5YmMV0llRU9YwCmV0Xbx/MZETCVSSZBYTQ=",
-  "Source": "ControllerExamples",
-  "BasePath": "_content/ControllerExamples",
+  "Hash": "Pgv2QizII9C08w9xBqYoGh31LszOGmw+M43V9b3Rync=",
+  "Source": "1-) ControllerExamples",
+  "BasePath": "_content/1-) ControllerExamples",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "ControllerExamples/wwwroot",
-      "Source": "ControllerExamples",
+      "Name": "1-) ControllerExamples/wwwroot",
+      "Source": "1-) ControllerExamples",
       "ContentRoot": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/ControllerExamples/wwwroot/",
-      "BasePath": "_content/ControllerExamples",
+      "BasePath": "_content/1-) ControllerExamples",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
       "Identity": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/ControllerExamples/wwwroot/notlar.pdf",
-      "SourceId": "ControllerExamples",
+      "SourceId": "1-) ControllerExamples",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/ControllerExamples/wwwroot/",
-      "BasePath": "_content/ControllerExamples",
+      "BasePath": "_content/1-) ControllerExamples",
       "RelativePath": "notlar.pdf",
       "AssetKind": "All",
       "AssetMode": "All",

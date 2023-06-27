@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4t750ztjMpahzFa3bilBMGaFpn0JcgSab9wtYuTJ6r5l+doDAb+CPWmPBGvw1EQi3DKQ8V0afUn3ufpnvG1bvQ==",
+  "dgSpecHash": "R6EFCqLqbHlnMntWArCqs0T0FDUDX1oV+2L8QbUUV0cq9p2tMC0pYKiUR5vUaVBIBrno6eo+WP6ddQe9X5mi7A==",
   "success": true,
   "projectFilePath": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/5-) RazorViewQuestion.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/ertugrulaydinc/.nuget/packages/autofac/7.0.1/autofac.7.0.1.nupkg.sha512",
+    "/Users/ertugrulaydinc/.nuget/packages/autofac.extensions.dependencyinjection/8.0.0/autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/ertugrulaydinc/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/ertugrulaydinc/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }

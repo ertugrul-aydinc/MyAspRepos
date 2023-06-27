@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Services/5-) Services.csproj": {}
+  },
+  "projects": {
+    "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Models/5-) Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Models/5-) Models.csproj",
+        "projectName": "5-) Models",
+        "projectPath": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Models/5-) Models.csproj",
+        "packagesPath": "/Users/ertugrulaydinc/.nuget/packages/",
+        "outputPath": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ertugrulaydinc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) ServiceContracts/5-) ServiceContracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) ServiceContracts/5-) ServiceContracts.csproj",
+        "projectName": "5-) ServiceContracts",
+        "projectPath": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) ServiceContracts/5-) ServiceContracts.csproj",
+        "packagesPath": "/Users/ertugrulaydinc/.nuget/packages/",
+        "outputPath": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) ServiceContracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ertugrulaydinc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Models/5-) Models.csproj": {
+                "projectPath": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Models/5-) Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Services/5-) Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Services/5-) Services.csproj",
+        "projectName": "5-) Services",
+        "projectPath": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Services/5-) Services.csproj",
+        "packagesPath": "/Users/ertugrulaydinc/.nuget/packages/",
+        "outputPath": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ertugrulaydinc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Models/5-) Models.csproj": {
+                "projectPath": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Models/5-) Models.csproj"
+              },
+              "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) ServiceContracts/5-) ServiceContracts.csproj": {
+                "projectPath": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) ServiceContracts/5-) ServiceContracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

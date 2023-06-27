@@ -1,0 +1,12 @@
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Models/bin/Debug/net7.0/5-) Models.deps.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Models/bin/Debug/net7.0/5-) Models.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Models/bin/Debug/net7.0/5-) Models.pdb
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Models/obj/Debug/net7.0/5-) Models.csproj.AssemblyReference.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Models/obj/Debug/net7.0/5-) Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Models/obj/Debug/net7.0/5-) Models.AssemblyInfoInputs.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Models/obj/Debug/net7.0/5-) Models.AssemblyInfo.cs
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Models/obj/Debug/net7.0/5-) Models.csproj.CoreCompileInputs.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Models/obj/Debug/net7.0/5-) Models.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Models/obj/Debug/net7.0/refint/5-) Models.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Models/obj/Debug/net7.0/5-) Models.pdb
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/5-) Models/obj/Debug/net7.0/ref/5-) Models.dll

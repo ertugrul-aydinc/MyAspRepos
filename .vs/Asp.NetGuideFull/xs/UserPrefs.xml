@@ -1,46 +1,31 @@
-﻿<Properties StartupConfiguration="{378CBA07-1C2B-42E8-A22D-01EFC04A9DE6}|http">
+﻿<Properties StartupConfiguration="{99ECE164-1EEF-4A95-A45D-7962AD76EB7A}|Default">
+  <MonoDevelop.Ide.ItemProperties.1-_229_220ControllerExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.5-_229_220RazorViewQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.4-_229_220ModelValidationQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.2-_229_220ControllerQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="6-) ViewComonentResultExamples/Controllers/HomeController.cs">
+  <MonoDevelop.Ide.ItemProperties.3-_229_220ModelValidationExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.4-_229_220ModelValidationQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.6-_229_220ViewComonentResultExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorViewQuestion/Program.cs">
     <Files>
-      <File FileName="6-) ViewComonentResultExamples/Controllers/HomeController.cs" Line="23" Column="11" />
-      <File FileName="6-) ViewComonentResultExamples/ViewComponents/GridViewComponent.cs" Line="16" Column="1" />
-      <File FileName="6-) ViewComonentResultExamples/Views/Shared/Components/Grid/Default.cshtml" Line="3" Column="26" />
-      <File FileName="6-) ViewComonentResultExamples/Views/Home/Index.cshtml" Line="1" Column="1" />
-      <File FileName="6-) ViewComonentResultExamples/wwwroot/friends.js" Line="7" Column="4" />
+      <File FileName="RazorViewQuestion/Controllers/CityWeathersController.cs" Line="28" Column="120" />
+      <File FileName="RazorViewQuestion/Program.cs" Line="15" Column="32" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Asp.NetGuideFull" expanded="True">
-            <Node name="6-) ViewComonentResultExamples">
-              <Node name="Controllers" expanded="True">
-                <Node name="HomeController.cs" selected="True" />
-              </Node>
-              <Node name="Models" expanded="True" />
-              <Node name="ViewComponents" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
-                <Node name="Shared" expanded="True">
-                  <Node name="Components" expanded="True">
-                    <Node name="Grid" expanded="True" />
-                  </Node>
-                </Node>
-              </Node>
+            <Node name="5-) RazorViewQuestion">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.3-_229_220ModelValidationExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.1-_229_220ControllerExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.6-_229_220ViewComonentResultExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.2-_229_220ControllerQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.5-_229_220Models FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

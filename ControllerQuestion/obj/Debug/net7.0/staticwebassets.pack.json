@@ -5,20 +5,20 @@
       "PackagePath": "staticwebassets/notlar.pdf"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.ControllerQuestion.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.2-) ControllerQuestion.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.ControllerQuestion.props",
-      "PackagePath": "build\\ControllerQuestion.props"
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.2-) ControllerQuestion.props",
+      "PackagePath": "build\\2-) ControllerQuestion.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ControllerQuestion.props",
-      "PackagePath": "buildMultiTargeting\\ControllerQuestion.props"
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.2-) ControllerQuestion.props",
+      "PackagePath": "buildMultiTargeting\\2-) ControllerQuestion.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ControllerQuestion.props",
-      "PackagePath": "buildTransitive\\ControllerQuestion.props"
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.2-) ControllerQuestion.props",
+      "PackagePath": "buildTransitive\\2-) ControllerQuestion.props"
     }
   ],
   "ElementsToRemove": []
