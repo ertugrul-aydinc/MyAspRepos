@@ -1,0 +1,15 @@
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) Services/bin/Debug/net7.0/10-) Services.deps.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) Services/bin/Debug/net7.0/10-) Services.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) Services/bin/Debug/net7.0/10-) Services.pdb
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) Services/bin/Debug/net7.0/10-) ServiceContracts.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) Services/bin/Debug/net7.0/10-) ServiceContracts.pdb
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) Services/obj/Debug/net7.0/10-) Services.csproj.AssemblyReference.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) Services/obj/Debug/net7.0/10-) Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) Services/obj/Debug/net7.0/10-) Services.AssemblyInfoInputs.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) Services/obj/Debug/net7.0/10-) Services.AssemblyInfo.cs
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) Services/obj/Debug/net7.0/10-) Services.csproj.CoreCompileInputs.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) Services/obj/Debug/net7.0/10-) Services.csproj.CopyComplete
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) Services/obj/Debug/net7.0/10-) Services.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) Services/obj/Debug/net7.0/refint/10-) Services.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) Services/obj/Debug/net7.0/10-) Services.pdb
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) Services/obj/Debug/net7.0/ref/10-) Services.dll

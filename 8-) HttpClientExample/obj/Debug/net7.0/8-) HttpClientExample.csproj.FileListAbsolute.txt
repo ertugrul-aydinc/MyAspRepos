@@ -1,3 +1,10 @@
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/bin/Debug/net7.0/appsettings.Development.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/bin/Debug/net7.0/appsettings.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/bin/Debug/net7.0/8-) HttpClientExample
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/bin/Debug/net7.0/8-) HttpClientExample.deps.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/bin/Debug/net7.0/8-) HttpClientExample.runtimeconfig.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/bin/Debug/net7.0/8-) HttpClientExample.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/bin/Debug/net7.0/8-) HttpClientExample.pdb
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/obj/Debug/net7.0/8-) HttpClientExample.csproj.AssemblyReference.cache
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/obj/Debug/net7.0/8-) HttpClientExample.GeneratedMSBuildEditorConfig.editorconfig
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/obj/Debug/net7.0/8-) HttpClientExample.AssemblyInfoInputs.cache
@@ -6,13 +13,6 @@
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/obj/Debug/net7.0/8-) HttpClientExample.MvcApplicationPartsAssemblyInfo.cache
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/obj/Debug/net7.0/8-) HttpClientExample.RazorAssemblyInfo.cache
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/obj/Debug/net7.0/8-) HttpClientExample.RazorAssemblyInfo.cs
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/bin/Debug/net7.0/appsettings.Development.json
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/bin/Debug/net7.0/appsettings.json
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/bin/Debug/net7.0/8-) HttpClientExample
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/bin/Debug/net7.0/8-) HttpClientExample.deps.json
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/bin/Debug/net7.0/8-) HttpClientExample.runtimeconfig.json
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/bin/Debug/net7.0/8-) HttpClientExample.dll
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/bin/Debug/net7.0/8-) HttpClientExample.pdb
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/obj/Debug/net7.0/staticwebassets/msbuild.8-) HttpClientExample.Microsoft.AspNetCore.StaticWebAssets.props
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/obj/Debug/net7.0/staticwebassets/msbuild.build.8-) HttpClientExample.props
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.8-) HttpClientExample.props

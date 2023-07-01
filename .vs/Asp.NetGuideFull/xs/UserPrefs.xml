@@ -1,5 +1,5 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{52EE56DF-3752-41E2-80C7-57EDB94A9644}|http">
-  <MonoDevelop.Ide.ItemProperties.9-_229_220ConfigurationQuestion FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{913764F8-2D51-4424-8584-E8511DE36F27}|http">
+  <MonoDevelop.Ide.ItemProperties.9-_229_220ConfigurationQuestion PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.4-_229_220ModelValidationQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.8-_229_220HttpClientExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.5-_229_220RazorViewQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
@@ -41,5 +41,6 @@
   <MonoDevelop.Ide.ItemProperties.6-_229_220ViewComonentResultExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.10-_229_220StockAppQuestion PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.7-_229_220ConfigurationExample PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
 </Properties>

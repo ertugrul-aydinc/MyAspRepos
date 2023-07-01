@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "/CLtOMAWTkpPLez+H7PzUPxZw9Q1r9i0jcOLZzgei5JhZBaampFbX39Je5EKsvVY6oYzIKDLP+6VOxRz3zrpDA==",
+  "success": true,
+  "projectFilePath": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/10-) StockAppQuestion.csproj",
+  "expectedPackageFiles": [
+    "/Users/ertugrulaydinc/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/ertugrulaydinc/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/ertugrulaydinc/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/ertugrulaydinc/.nuget/packages/microsoft.extensions.http/7.0.0/microsoft.extensions.http.7.0.0.nupkg.sha512",
+    "/Users/ertugrulaydinc/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/ertugrulaydinc/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/ertugrulaydinc/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/ertugrulaydinc/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
