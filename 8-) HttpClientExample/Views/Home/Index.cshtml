@@ -1,0 +1,40 @@
+﻿@model _8___HttpClientExample.Models.Stock
+
+<h1>Stock Quotes</h1>
+
+<table>
+    <tbody>
+        <tr>
+            <th>Stock Symbol</th>
+            <td>@Model.StockSymbol</td>
+        </tr>
+        <tr>
+            <th>Current Price</th>
+            <td>@Model.CurrentPrice</td>
+        </tr>
+        <tr>
+            <th>Change</th>
+            <td>@Model.Change</td>
+        </tr>
+        <tr>
+            <th>Percent Change</th>
+            <td>@Model.PercentChange</td>
+        </tr>
+        <tr>
+            <th>High Price</th>
+            <td>@Model.HighPrice</td>
+        </tr>
+        <tr>
+            <th>Low Price</th>
+            <td>@Model.LowPrice</td>
+        </tr>
+        <tr>
+            <th>Open Price</th>
+            <td>@Model.OpenPrice</td>
+        </tr>
+        <tr>
+            <th>Close Price</th>
+            <td>@Model.ClosePrice</td>
+        </tr>
+    </tbody>
+</table>

@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>_8___HttpClientExample</RootNamespace>
+    <UserSecretsId>91d7dc26-5dce-4a2c-9b92-2d213f8de0a3</UserSecretsId>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <None Remove="Controllers\" />
+    <None Remove="Views\" />
+    <None Remove="Views\Home\" />
+    <None Remove="Services\" />
+    <None Remove="ServiceContracts\" />
+    <None Remove="OptionsModels\" />
+    <None Remove="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Views\" />
+    <Folder Include="Views\Home\" />
+    <Folder Include="Services\" />
+    <Folder Include="ServiceContracts\" />
+    <Folder Include="OptionsModels\" />
+    <Folder Include="Models\" />
+  </ItemGroup>
+</Project>

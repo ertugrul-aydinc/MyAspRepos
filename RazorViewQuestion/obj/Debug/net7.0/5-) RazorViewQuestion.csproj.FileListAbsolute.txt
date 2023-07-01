@@ -1,11 +1,3 @@
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/obj/Debug/net7.0/5-) RazorViewQuestion.csproj.AssemblyReference.cache
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/obj/Debug/net7.0/5-) RazorViewQuestion.GeneratedMSBuildEditorConfig.editorconfig
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/obj/Debug/net7.0/5-) RazorViewQuestion.AssemblyInfoInputs.cache
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/obj/Debug/net7.0/5-) RazorViewQuestion.AssemblyInfo.cs
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/obj/Debug/net7.0/5-) RazorViewQuestion.csproj.CoreCompileInputs.cache
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/obj/Debug/net7.0/5-) RazorViewQuestion.MvcApplicationPartsAssemblyInfo.cache
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/obj/Debug/net7.0/5-) RazorViewQuestion.RazorAssemblyInfo.cache
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/obj/Debug/net7.0/5-) RazorViewQuestion.RazorAssemblyInfo.cs
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/bin/Debug/net7.0/appsettings.Development.json
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/bin/Debug/net7.0/appsettings.json
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/bin/Debug/net7.0/5-) RazorViewQuestion.staticwebassets.runtime.json
@@ -22,6 +14,14 @@
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/bin/Debug/net7.0/5-) ServiceContracts.pdb
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/bin/Debug/net7.0/5-) Services.pdb
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/bin/Debug/net7.0/5-) Models.pdb
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/obj/Debug/net7.0/5-) RazorViewQuestion.csproj.AssemblyReference.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/obj/Debug/net7.0/5-) RazorViewQuestion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/obj/Debug/net7.0/5-) RazorViewQuestion.AssemblyInfoInputs.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/obj/Debug/net7.0/5-) RazorViewQuestion.AssemblyInfo.cs
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/obj/Debug/net7.0/5-) RazorViewQuestion.csproj.CoreCompileInputs.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/obj/Debug/net7.0/5-) RazorViewQuestion.MvcApplicationPartsAssemblyInfo.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/obj/Debug/net7.0/5-) RazorViewQuestion.RazorAssemblyInfo.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/obj/Debug/net7.0/5-) RazorViewQuestion.RazorAssemblyInfo.cs
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/obj/Debug/net7.0/staticwebassets/msbuild.5-) RazorViewQuestion.Microsoft.AspNetCore.StaticWebAssets.props
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/obj/Debug/net7.0/staticwebassets/msbuild.build.5-) RazorViewQuestion.props
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/RazorViewQuestion/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.5-) RazorViewQuestion.props

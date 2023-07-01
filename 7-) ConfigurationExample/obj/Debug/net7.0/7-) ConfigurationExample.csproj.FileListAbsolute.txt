@@ -1,0 +1,28 @@
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/bin/Debug/net7.0/appsettings.Development.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/bin/Debug/net7.0/appsettings.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/bin/Debug/net7.0/7-) ConfigurationExample
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/bin/Debug/net7.0/7-) ConfigurationExample.deps.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/bin/Debug/net7.0/7-) ConfigurationExample.runtimeconfig.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/bin/Debug/net7.0/7-) ConfigurationExample.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/bin/Debug/net7.0/7-) ConfigurationExample.pdb
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/obj/Debug/net7.0/7-) ConfigurationExample.csproj.AssemblyReference.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/obj/Debug/net7.0/7-) ConfigurationExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/obj/Debug/net7.0/7-) ConfigurationExample.AssemblyInfoInputs.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/obj/Debug/net7.0/7-) ConfigurationExample.AssemblyInfo.cs
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/obj/Debug/net7.0/7-) ConfigurationExample.csproj.CoreCompileInputs.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/obj/Debug/net7.0/7-) ConfigurationExample.MvcApplicationPartsAssemblyInfo.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/obj/Debug/net7.0/7-) ConfigurationExample.RazorAssemblyInfo.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/obj/Debug/net7.0/7-) ConfigurationExample.RazorAssemblyInfo.cs
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/obj/Debug/net7.0/staticwebassets/msbuild.7-) ConfigurationExample.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/obj/Debug/net7.0/staticwebassets/msbuild.build.7-) ConfigurationExample.props
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.7-) ConfigurationExample.props
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.7-) ConfigurationExample.props
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/obj/Debug/net7.0/scopedcss/bundle/7-) ConfigurationExample.styles.css
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/obj/Debug/net7.0/7-) ConfigurationExample.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/obj/Debug/net7.0/refint/7-) ConfigurationExample.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/obj/Debug/net7.0/7-) ConfigurationExample.pdb
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/obj/Debug/net7.0/7-) ConfigurationExample.genruntimeconfig.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/7-) ConfigurationExample/obj/Debug/net7.0/ref/7-) ConfigurationExample.dll

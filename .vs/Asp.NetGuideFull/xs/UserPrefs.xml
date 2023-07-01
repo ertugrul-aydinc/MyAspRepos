@@ -1,31 +1,46 @@
-﻿<Properties StartupConfiguration="{99ECE164-1EEF-4A95-A45D-7962AD76EB7A}|Default">
-  <MonoDevelop.Ide.ItemProperties.1-_229_220ControllerExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+﻿<Properties StartupConfiguration="{4B76C420-6B48-41B2-ADAE-7970181FAB29}|http">
+  <MonoDevelop.Ide.ItemProperties.4-_229_220ModelValidationQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.5-_229_220RazorViewQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.2-_229_220ControllerQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.3-_229_220ModelValidationExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.4-_229_220ModelValidationQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.6-_229_220ViewComonentResultExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="RazorViewQuestion/Program.cs">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/Services/FinnhubService.cs" relfile="8-) HttpClientExample/Services/FinnhubService.cs" line="38" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.2-_229_220ControllerQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.1-_229_220ControllerExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.8-_229_220HttpClientExample PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="8-) HttpClientExample/Program.cs">
     <Files>
-      <File FileName="RazorViewQuestion/Controllers/CityWeathersController.cs" Line="28" Column="120" />
-      <File FileName="RazorViewQuestion/Program.cs" Line="15" Column="32" />
+      <File FileName="8-) HttpClientExample/Program.cs" Line="7" Column="1" />
+      <File FileName="8-) HttpClientExample/Controllers/HomeController.cs" Line="28" Column="27" />
+      <File FileName="8-) HttpClientExample/Views/Home/Index.cshtml" Line="1" Column="9" />
+      <File FileName="8-) HttpClientExample/Services/MyService.cs" Line="38" Column="43" />
+      <File FileName="8-) HttpClientExample/ServiceContracts/IFinnhubService.cs" Line="10" Column="1" />
+      <File FileName="8-) HttpClientExample/appsettings.json" Line="14" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Asp.NetGuideFull" expanded="True">
-            <Node name="5-) RazorViewQuestion">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Program.cs" selected="True" />
+            <Node name="8-) HttpClientExample">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="ServiceContracts" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.5-_229_220Models FirstBuild="True" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.6-_229_220ViewComonentResultExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.7-_229_220ConfigurationExample PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
 </Properties>
