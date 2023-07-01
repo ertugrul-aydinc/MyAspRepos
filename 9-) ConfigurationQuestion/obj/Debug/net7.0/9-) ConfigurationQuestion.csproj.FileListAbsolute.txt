@@ -1,0 +1,28 @@
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/bin/Debug/net7.0/appsettings.Development.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/bin/Debug/net7.0/appsettings.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/bin/Debug/net7.0/9-) ConfigurationQuestion
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/bin/Debug/net7.0/9-) ConfigurationQuestion.deps.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/bin/Debug/net7.0/9-) ConfigurationQuestion.runtimeconfig.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/bin/Debug/net7.0/9-) ConfigurationQuestion.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/bin/Debug/net7.0/9-) ConfigurationQuestion.pdb
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/obj/Debug/net7.0/9-) ConfigurationQuestion.csproj.AssemblyReference.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/obj/Debug/net7.0/9-) ConfigurationQuestion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/obj/Debug/net7.0/9-) ConfigurationQuestion.AssemblyInfoInputs.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/obj/Debug/net7.0/9-) ConfigurationQuestion.AssemblyInfo.cs
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/obj/Debug/net7.0/9-) ConfigurationQuestion.csproj.CoreCompileInputs.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/obj/Debug/net7.0/9-) ConfigurationQuestion.MvcApplicationPartsAssemblyInfo.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/obj/Debug/net7.0/9-) ConfigurationQuestion.RazorAssemblyInfo.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/obj/Debug/net7.0/9-) ConfigurationQuestion.RazorAssemblyInfo.cs
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/obj/Debug/net7.0/staticwebassets/msbuild.9-) ConfigurationQuestion.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/obj/Debug/net7.0/staticwebassets/msbuild.build.9-) ConfigurationQuestion.props
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.9-) ConfigurationQuestion.props
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.9-) ConfigurationQuestion.props
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/obj/Debug/net7.0/scopedcss/bundle/9-) ConfigurationQuestion.styles.css
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/obj/Debug/net7.0/9-) ConfigurationQuestion.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/obj/Debug/net7.0/refint/9-) ConfigurationQuestion.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/obj/Debug/net7.0/9-) ConfigurationQuestion.pdb
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/obj/Debug/net7.0/9-) ConfigurationQuestion.genruntimeconfig.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/9-) ConfigurationQuestion/obj/Debug/net7.0/ref/9-) ConfigurationQuestion.dll
