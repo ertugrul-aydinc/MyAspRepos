@@ -1,18 +1,8 @@
-﻿<Properties StartupConfiguration="{4B76C420-6B48-41B2-ADAE-7970181FAB29}|http">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{4B76C420-6B48-41B2-ADAE-7970181FAB29}|http">
   <MonoDevelop.Ide.ItemProperties.4-_229_220ModelValidationQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.8-_229_220HttpClientExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.5-_229_220RazorViewQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.3-_229_220ModelValidationExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/Services/FinnhubService.cs" relfile="8-) HttpClientExample/Services/FinnhubService.cs" line="38" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.2-_229_220ControllerQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.1-_229_220ControllerExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.8-_229_220HttpClientExample PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="8-) HttpClientExample/Program.cs">
     <Files>
       <File FileName="8-) HttpClientExample/Program.cs" Line="7" Column="1" />
@@ -41,6 +31,14 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.3-_229_220ModelValidationExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.1-_229_220ControllerExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/8-) HttpClientExample/Services/FinnhubService.cs" relfile="8-) HttpClientExample/Services/FinnhubService.cs" line="38" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.6-_229_220ViewComonentResultExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.7-_229_220ConfigurationExample PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
 </Properties>

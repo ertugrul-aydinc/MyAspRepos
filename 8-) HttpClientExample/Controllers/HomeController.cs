@@ -16,12 +16,14 @@ namespace _8___HttpClientExample.Controllers
     public class HomeController : Controller
     {
         private readonly IFinnhubService _finnhubSerive;
-        private readonly IOptions<TradingOptions> _tradingOptions;
+        //private readonly IOptions<TradingOptions> _tradingOptions;
+        private readonly TradingOptions _tradingOptions;
 
         public HomeController(IFinnhubService finnhubService, IOptions<TradingOptions> tradingOptions)
         {
             _finnhubSerive = finnhubService;
-            _tradingOptions = tradingOptions;
+            //_tradingOptions = tradingOptions;
+            _tradingOptions = tradingOptions.Value;
         }
 
         // GET: /<controller>/
@@ -30,9 +32,14 @@ namespace _8___HttpClientExample.Controllers
         {
             Dictionary<string, object>? responseDictionary = await _finnhubSerive.GetStockQuoteValues();
 
+            if (responseDictionary is null)
+                throw new InvalidOperationException("Request returned null");
+            if (_tradingOptions.DefaultStockSymbol is null)
+                _tradingOptions.DefaultStockSymbol = "AAPL";
+
             Stock stock = new Stock()
             {
-                StockSymbol = _tradingOptions.Value.DefaultStockSymbol,
+                StockSymbol = _tradingOptions.DefaultStockSymbol,
                 CurrentPrice = Convert.ToDouble(responseDictionary["c"].ToString()),
                 Change = Convert.ToDouble(responseDictionary["d"].ToString()),
                 PercentChange = Convert.ToDouble(responseDictionary["dp"].ToString()),
