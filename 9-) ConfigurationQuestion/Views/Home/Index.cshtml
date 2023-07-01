@@ -1,8 +1,17 @@
 ﻿
-<a href="@ViewBag.Facebook">Facebook</a>
-<a href="@ViewBag.Twitter">Twitter</a>
-<a href="@ViewBag.Youtube">Youtube</a>
+<div>
+    <a href="@ViewBag.SocialMediaLinksOptions.Facebook">Facebook</a>
+</div>
 
 <environment exclude="Development">
-    <a href="@ViewBag.Instagram">Instagram</a>
+    <a href="@ViewBag.SocialMediaLinksOptions.Instagram">Instagram</a>
 </environment>
+
+<div>
+    <a href="@ViewBag.SocialMediaLinksOptions.Twitter">Twitter</a>
+</div>
+
+<div>
+    <a href="@ViewBag.SocialMediaLinksOptions.Youtube">Youtube</a>
+</div>
+

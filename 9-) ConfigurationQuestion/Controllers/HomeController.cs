@@ -23,10 +23,7 @@ namespace _9___ConfigurationQuestion.Controllers
         [Route("/")]
         public IActionResult Index()
         {
-            ViewBag.Facebook = _socialMediaLinksOptions.Facebook;
-            ViewBag.Twitter = _socialMediaLinksOptions.Twitter;
-            ViewBag.Youtube = _socialMediaLinksOptions.Youtube;
-            ViewBag.Instagram = _socialMediaLinksOptions.Instagram;
+            ViewBag.SocialMediaLinksOptions = _socialMediaLinksOptions;
 
             return View();
         }
