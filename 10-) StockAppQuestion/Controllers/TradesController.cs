@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using _10___ServiceContracts;
+﻿using _10___ServiceContracts;
 using _10___StockAppQuestion.Models;
 using _10___StockAppQuestion.OptionsModels;
 using Microsoft.AspNetCore.Mvc;
@@ -17,18 +13,22 @@ namespace _10___StockAppQuestion.Controllers
         private readonly TradingOptions _tradingOptions;
         private readonly IFinnhubService _finnhubService;
         private readonly IConfiguration _configuration;
+        private readonly ILogger<TradesController> _logger;
 
-        public TradesController(IOptions<TradingOptions> tradingOptions, IFinnhubService finnhubService, IConfiguration configuration)
+        public TradesController(IOptions<TradingOptions> tradingOptions, IFinnhubService finnhubService, IConfiguration configuration, ILogger<TradesController> logger)
         {
             _tradingOptions = tradingOptions.Value;
             _finnhubService = finnhubService;
             _configuration = configuration;
+            _logger = logger;
         }
 
         // GET: /<controller>/
         [Route("/")]
         public async Task<IActionResult> Index()
         {
+            _logger.LogInformation("Logged by logger");
+
             if(string.IsNullOrEmpty(_tradingOptions.DefaultStockSymbol))
                 _tradingOptions.DefaultStockSymbol = "MSFT";
 

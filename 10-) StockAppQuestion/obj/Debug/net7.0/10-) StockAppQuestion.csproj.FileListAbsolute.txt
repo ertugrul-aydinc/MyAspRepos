@@ -5,12 +5,18 @@
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/bin/Debug/net7.0/10-) StockAppQuestion.runtimeconfig.json
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/bin/Debug/net7.0/10-) StockAppQuestion.dll
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/bin/Debug/net7.0/10-) StockAppQuestion.pdb
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/bin/Debug/net7.0/10-) ServiceContracts.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/bin/Debug/net7.0/10-) Services.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/bin/Debug/net7.0/10-) ServiceContracts.pdb
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/bin/Debug/net7.0/10-) Services.pdb
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/10-) StockAppQuestion.csproj.AssemblyReference.cache
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/10-) StockAppQuestion.GeneratedMSBuildEditorConfig.editorconfig
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/10-) StockAppQuestion.AssemblyInfoInputs.cache
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/10-) StockAppQuestion.AssemblyInfo.cs
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/10-) StockAppQuestion.csproj.CoreCompileInputs.cache
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/10-) StockAppQuestion.MvcApplicationPartsAssemblyInfo.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/10-) StockAppQuestion.RazorAssemblyInfo.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/10-) StockAppQuestion.RazorAssemblyInfo.cs
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/staticwebassets/msbuild.10-) StockAppQuestion.Microsoft.AspNetCore.StaticWebAssets.props
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/staticwebassets/msbuild.build.10-) StockAppQuestion.props
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.10-) StockAppQuestion.props
@@ -19,15 +25,9 @@
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/staticwebassets.build.json
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/staticwebassets.development.json
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/scopedcss/bundle/10-) StockAppQuestion.styles.css
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/10-) StockAppQuestion.csproj.CopyComplete
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/10-) StockAppQuestion.dll
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/refint/10-) StockAppQuestion.dll
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/10-) StockAppQuestion.pdb
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/10-) StockAppQuestion.genruntimeconfig.cache
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/ref/10-) StockAppQuestion.dll
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/bin/Debug/net7.0/10-) ServiceContracts.dll
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/bin/Debug/net7.0/10-) Services.dll
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/bin/Debug/net7.0/10-) ServiceContracts.pdb
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/bin/Debug/net7.0/10-) Services.pdb
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/10-) StockAppQuestion.csproj.CopyComplete
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/10-) StockAppQuestion.RazorAssemblyInfo.cache
-/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/10-) StockAppQuestion/obj/Debug/net7.0/10-) StockAppQuestion.RazorAssemblyInfo.cs

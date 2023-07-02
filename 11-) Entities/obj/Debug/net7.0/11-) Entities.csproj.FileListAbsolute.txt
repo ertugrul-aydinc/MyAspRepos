@@ -1,0 +1,12 @@
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) Entities/bin/Debug/net7.0/11-) Entities.deps.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) Entities/bin/Debug/net7.0/11-) Entities.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) Entities/bin/Debug/net7.0/11-) Entities.pdb
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) Entities/obj/Debug/net7.0/11-) Entities.csproj.AssemblyReference.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) Entities/obj/Debug/net7.0/11-) Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) Entities/obj/Debug/net7.0/11-) Entities.AssemblyInfoInputs.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) Entities/obj/Debug/net7.0/11-) Entities.AssemblyInfo.cs
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) Entities/obj/Debug/net7.0/11-) Entities.csproj.CoreCompileInputs.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) Entities/obj/Debug/net7.0/11-) Entities.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) Entities/obj/Debug/net7.0/refint/11-) Entities.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) Entities/obj/Debug/net7.0/11-) Entities.pdb
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) Entities/obj/Debug/net7.0/ref/11-) Entities.dll

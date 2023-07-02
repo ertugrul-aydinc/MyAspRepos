@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "11-) Services/1.0.0": {
+        "runtime": {
+          "11-) Services.dll": {}
+        }
+      },
+      "11-) Entities/1.0.0": {
+        "runtime": {
+          "11-) Entities.dll": {}
+        }
+      },
+      "11-) ServiceContracts/1.0.0": {
+        "dependencies": {
+          "11-) Entities": "1.0.0"
+        },
+        "runtime": {
+          "11-) ServiceContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11-) Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "11-) Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "11-) ServiceContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
