@@ -9,9 +9,11 @@
 
   <ItemGroup>
     <None Remove="DTOs\" />
+    <None Remove="Enums\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DTOs\" />
+    <Folder Include="Enums\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\11-%29 Entities\11-%29 Entities.csproj" />

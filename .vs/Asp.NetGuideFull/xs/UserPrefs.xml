@@ -1,46 +1,53 @@
 ﻿<Properties StartupConfiguration="{99889840-0E08-4CC3-889E-8C09FD5EED0A}|http" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.ItemProperties.8-_229_220HttpClientExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.9-_229_220ConfigurationQuestion PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.5-_229_220RazorViewQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.4-_229_220ModelValidationQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.10-_229_220StockAppQuestion PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.7-_229_220ConfigurationExample PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.2-_229_220ControllerQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.7-_229_220ConfigurationExample PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.3-_229_220ModelValidationExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.10-_229_220StockAppQuestion PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="11-) Services/CountryService.cs">
     <Files>
-      <File FileName="11-) Entities/Class1.cs" />
-      <File FileName="11-) ServiceContracts/Class1.cs" />
-      <File FileName="11-) Services/Class1.cs" />
-      <File FileName="11-) CRUDTests/UnitTest1.cs" />
-      <File FileName="11-) Entities/Country.cs" />
-      <File FileName="11-) ServiceContracts/ICountryService.cs" />
-      <File FileName="11-) Services/CountryService.cs" Line="7" Column="2" />
-      <File FileName="11-) CRUDTests/CountriesServiceTest.cs" />
+      <File FileName="11-) ServiceContracts/ICountryService.cs" Line="12" Column="47" />
+      <File FileName="11-) Services/CountryService.cs" Line="33" Column="48" />
+      <File FileName="11-) CRUDTests/CountriesServiceTest.cs" Line="6" Column="26" />
+      <File FileName="11-) ServiceContracts/DTOs/CountryResponse.cs" Line="41" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Asp.NetGuideFull">
+          <Node name="Asp.NetGuideFull" expanded="True">
             <Node name="10-) ServiceContracts" expanded="True" />
             <Node name="11-) CRUDTests" expanded="True" />
             <Node name="11-) Entities" expanded="True" />
-            <Node name="11-) ServiceContracts" expanded="True" />
-            <Node name="11-) Services" expanded="True">
-              <Node name="CountryService.cs" selected="True" />
+            <Node name="11-) ServiceContracts" expanded="True">
+              <Node name="DTOs" expanded="True" />
+            </Node>
+            <Node name="11-) Services" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Asp.NetGuideFull">
+            <Node name="11-) CRUDTests" expanded="True">
+              <Node name="_11___CRUDTests" expanded="True">
+                <Node name="CountriesServiceTest" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.3-_229_220ModelValidationExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.11-_229_220XUnitExample PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.6-_229_220ViewComonentResultExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.4-_229_220ModelValidationQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.1-_229_220ControllerExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.9-_229_220ConfigurationQuestion PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.8-_229_220HttpClientExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.2-_229_220ControllerQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.11-_229_220XUnitExample PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
 </Properties>
