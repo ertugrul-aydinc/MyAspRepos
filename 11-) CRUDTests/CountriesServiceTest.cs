@@ -14,7 +14,9 @@ namespace _11___CRUDTests
 			_countryService = new CountryService();
 		}
 
-		[Fact]
+
+        #region AddCountry
+        [Fact]
 		public void AddCountry_NullCountry()
 		{
 			CountryAddRequest? request = null;
@@ -55,10 +57,78 @@ namespace _11___CRUDTests
 			CountryAddRequest? request = new CountryAddRequest() { CountryName = "Netherland" };
 
 			CountryResponse response = _countryService.AddCountry(request);
+			List<CountryResponse> countries = _countryService.GetAllCountries();
 
 			Assert.True(response.CountryID != Guid.Empty);
+			Assert.Contains(response, countries);
+		}
+		#endregion
+
+		#region GetAllCountries
+
+		[Fact]
+		public void GetAllCountries_EmptyList()
+		{
+			List<CountryResponse> countries = _countryService.GetAllCountries();
+
+			Assert.Empty(countries);
 		}
 
+		[Fact]
+		public void GetAllCountries_AddFewCountries()
+		{
+			List<CountryAddRequest> countries = new List<CountryAddRequest>()
+			{
+				new CountryAddRequest(){CountryName = "USA"},
+				new CountryAddRequest(){CountryName = "UK"}
+			};
+
+			List<CountryResponse> countryResponses = new List<CountryResponse>();
+
+			foreach (CountryAddRequest country in countries)
+			{
+				countryResponses.Add(_countryService.AddCountry(country));
+			}
+
+			List<CountryResponse> actualCountriesList = _countryService.GetAllCountries();
+
+			foreach (var actualCountry in countryResponses)
+			{
+				Assert.Contains(actualCountry, actualCountriesList);
+			}
+
+		}
+
+
+		#endregion
+
+		#region GetCountryByCountryID
+
+		[Fact]
+		public void GetCountryByCountryID_NullCountryID()
+		{
+			Guid? countryID = null;
+
+			CountryResponse? countryResponse = _countryService.GetCountryByCountryID(countryID);
+
+			Assert.Null(countryResponse);
+		}
+
+
+		[Fact]
+        public void GetCountryByCountryID_ValidCountryID()
+		{
+			//Arrange
+			CountryAddRequest? countryAddRequest = new CountryAddRequest() { CountryName = "Croatia" };
+			CountryResponse? countryResponse = _countryService.AddCountry(countryAddRequest);
+
+			//Act
+			CountryResponse? actualCountryResponse = _countryService.GetCountryByCountryID(countryResponse.CountryID);
+
+			//Assert
+			Assert.Equal(countryResponse, actualCountryResponse);
+		}
+        #endregion
     }
 }
 
