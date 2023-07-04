@@ -1,6 +1,7 @@
 ﻿using _9___ConfigurationQuestion.OptionsModels;
 
 var builder = WebApplication.CreateBuilder(args);
+
 builder.Host.ConfigureAppConfiguration((hostingContext, config) => {
     config.AddJsonFile("SocialMediaLinksConfig.json", optional: true, reloadOnChange: true);
 });

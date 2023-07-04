@@ -37,6 +37,17 @@ namespace _11___Services
             return _persons.Select(p => p.ToPersonResponse()).ToList();
         }
 
+        public PersonResponse? GetPersonByPersonID(Guid? personID)
+        {
+            if (personID is null) return null;
+
+            Person? person = _persons.SingleOrDefault(p => p.PersonID == personID);
+
+            if (person is null) return null;
+
+            return person.ToPersonResponse();
+        }
+
         private PersonResponse ConvertPersonToPersonResponse(Person person)
         {
             PersonResponse personResponse = person.ToPersonResponse();
