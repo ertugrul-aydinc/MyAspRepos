@@ -1,5 +1,6 @@
 ﻿using System;
 using _11___Entities;
+using _11___ServiceContracts.Enums;
 
 namespace _11___ServiceContracts.DTOs
 {
@@ -32,6 +33,26 @@ namespace _11___ServiceContracts.DTOs
         public override int GetHashCode()
         {
             return base.GetHashCode();
+        }
+
+        public override string ToString()
+        {
+            return $"Person ID: {PersonID}, PersonName: {PersonName}, Email: {Email}, DateOfBirth: {DateOfBirth}, Gender: {Gender}, CountryID: {CountryID}, Country: {Country}, Address: {Address}, ReceiveNewsLetters: {ReceiveNewsLetters}, Age: {Age}";
+        }
+
+        public PersonUpdateRequest ToPersonUpdateRequest()
+        {
+            return new PersonUpdateRequest()
+            {
+                PersonID = PersonID,
+                PersonName = PersonName,
+                Email = Email,
+                DateOfBirth = DateOfBirth,
+                Gender =(GenderOptions)Enum.Parse(typeof(GenderOptions), Gender!, true),
+                CountryID = CountryID,
+                Address = Address,
+                ReceiveNewsLetters = ReceiveNewsLetters
+            };
         }
     }
 

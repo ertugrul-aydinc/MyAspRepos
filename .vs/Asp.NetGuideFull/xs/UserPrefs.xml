@@ -1,41 +1,52 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{99889840-0E08-4CC3-889E-8C09FD5EED0A}|http">
-  <MonoDevelop.Ide.ItemProperties.5-_229_220RazorViewQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <Breakpoint file="/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/CustomValidators/DateRangeValidator.cs" relfile="3-) ModelValidationExamples/CustomValidators/DateRangeValidator.cs" line="23" column="1" />
-    <Breakpoint file="/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/ModelValidationQuestion/CustomValidators/TotalPriceValidatorAttribute.cs" relfile="ModelValidationQuestion/CustomValidators/TotalPriceValidatorAttribute.cs" line="23" column="1" />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.11-_229_220XUnitExample PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.1-_229_220ControllerExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.3-_229_220ModelValidationExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.7-_229_220ConfigurationExample PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.8-_229_220HttpClientExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.9-_229_220ConfigurationQuestion PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.10-_229_220StockAppQuestion PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.2-_229_220ControllerQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ModelValidationQuestion/Controllers/OrdersController.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/CustomValidators/DateRangeValidator.cs" relfile="3-) ModelValidationExamples/CustomValidators/DateRangeValidator.cs" line="23" column="1" />
+      <Breakpoint file="/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/ModelValidationQuestion/CustomValidators/TotalPriceValidatorAttribute.cs" relfile="ModelValidationQuestion/CustomValidators/TotalPriceValidatorAttribute.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="11-) Services/PersonsService.cs">
     <Files>
-      <File FileName="ModelValidationQuestion/Models/Order.cs" />
-      <File FileName="ModelValidationQuestion/CustomValidators/TotalPriceValidatorAttribute.cs" />
-      <File FileName="ModelValidationQuestion/Controllers/OrdersController.cs" Line="11" Column="2" />
+      <File FileName="11-) ServiceContracts/IPersonsService.cs" Line="17" Column="117" />
+      <File FileName="11-) Services/PersonsService.cs" Line="3" Column="22" />
+      <File FileName="11-) CRUDTests/PersonsServiceTest.cs" Line="22" Column="10" />
+      <File FileName="11-) CRUDTests/CountriesServiceTest.cs" />
+      <File FileName="11-) ServiceContracts/DTOs/PersonAddRequest.cs" />
+      <File FileName="11-) ServiceContracts/DTOs/PersonResponse.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
+          <Node name="Asp.NetGuideFull" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
           <Node name="Asp.NetGuideFull">
-            <Node name="4-) ModelValidationQuestion" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="OrdersController.cs" selected="True" />
+            <Node name="11-) CRUDTests">
+              <Node name="_11___CRUDTests">
+                <Node name="PersonsServiceTest">
+                  <Node name="GetSortedPersons - ba014eff-0a76-66c8-f896-e3b366bc4bfc" selected="True" />
+                </Node>
               </Node>
-              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.4-_229_220ModelValidationQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.11-_229_220XUnitExample PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.7-_229_220ConfigurationExample PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.4-_229_220ModelValidationQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.9-_229_220ConfigurationQuestion PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.5-_229_220RazorViewQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.10-_229_220StockAppQuestion PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.6-_229_220ViewComonentResultExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.8-_229_220HttpClientExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.3-_229_220ModelValidationExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.2-_229_220ControllerQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

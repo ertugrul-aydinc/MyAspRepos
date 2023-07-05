@@ -1,13 +1,14 @@
-﻿using System;
-using System.ComponentModel.DataAnnotations;
-using System.Xml.Linq;
+﻿using System.ComponentModel.DataAnnotations;
 using _11___Entities;
 using _11___ServiceContracts.Enums;
 
 namespace _11___ServiceContracts.DTOs
 {
-    public class PersonAddRequest
-	{
+    public class PersonUpdateRequest
+    {
+        [Required]
+        public Guid PersonID { get; set; }
+
         [Required(ErrorMessage = "{0} can't be null or empty")]
         public string? PersonName { get; set; }
         [Required(ErrorMessage = "{0} can't be null or empty")]
@@ -23,6 +24,7 @@ namespace _11___ServiceContracts.DTOs
         {
             return new Person()
             {
+                PersonID = PersonID,
                 PersonName = PersonName,
                 Email = Email,
                 DateOfBirth = DateOfBirth,
