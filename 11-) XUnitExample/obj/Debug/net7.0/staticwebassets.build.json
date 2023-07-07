@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "E2PVrARkT4U9B/jYkYiPXJ3wULlG9+XkDzOjNMQaUUM=",
+  "Hash": "zaQPUNUTXVbZ4GXdiHUqpGUKFe4CrECuHr0uGc0pujk=",
   "Source": "11-) XUnitExample",
   "BasePath": "_content/11-) XUnitExample",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "11-) XUnitExample/wwwroot",
+      "Source": "11-) XUnitExample",
+      "ContentRoot": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/wwwroot/",
+      "BasePath": "_content/11-) XUnitExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/wwwroot/StyleSheet.css",
+      "SourceId": "11-) XUnitExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/wwwroot/",
+      "BasePath": "_content/11-) XUnitExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/StyleSheet.css"
+    }
+  ]
 }

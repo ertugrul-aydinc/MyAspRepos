@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/wwwroot/StyleSheet.css",
+      "PackagePath": "staticwebassets/StyleSheet.css"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.11-) XUnitExample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.11-) XUnitExample.props",
+      "PackagePath": "build\\11-) XUnitExample.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.11-) XUnitExample.props",
+      "PackagePath": "buildMultiTargeting\\11-) XUnitExample.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.11-) XUnitExample.props",
+      "PackagePath": "buildTransitive\\11-) XUnitExample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

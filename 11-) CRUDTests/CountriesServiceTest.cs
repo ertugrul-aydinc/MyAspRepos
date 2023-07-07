@@ -11,7 +11,7 @@ namespace _11___CRUDTests
 
 		public CountriesServiceTest()
 		{
-			_countryService = new CountryService();
+			_countryService = new CountryService(false);
 		}
 
 

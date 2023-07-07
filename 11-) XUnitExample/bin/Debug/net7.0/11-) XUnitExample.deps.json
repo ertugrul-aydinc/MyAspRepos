@@ -10,11 +10,47 @@
         "runtime": {
           "11-) XUnitExample.dll": {}
         }
+      },
+      "11-) Entities/1.0.0": {
+        "runtime": {
+          "11-) Entities.dll": {}
+        }
+      },
+      "11-) ServiceContracts/1.0.0": {
+        "dependencies": {
+          "11-) Entities": "1.0.0"
+        },
+        "runtime": {
+          "11-) ServiceContracts.dll": {}
+        }
+      },
+      "11-) Services/1.0.0": {
+        "dependencies": {
+          "11-) ServiceContracts": "1.0.0"
+        },
+        "runtime": {
+          "11-) Services.dll": {}
+        }
       }
     }
   },
   "libraries": {
     "11-) XUnitExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "11-) Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "11-) ServiceContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "11-) Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

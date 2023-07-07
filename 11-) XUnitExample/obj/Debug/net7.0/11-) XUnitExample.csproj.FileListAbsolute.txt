@@ -1,16 +1,25 @@
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/bin/Debug/net7.0/appsettings.Development.json
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/bin/Debug/net7.0/appsettings.json
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/bin/Debug/net7.0/11-) XUnitExample.staticwebassets.runtime.json
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/bin/Debug/net7.0/11-) XUnitExample
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/bin/Debug/net7.0/11-) XUnitExample.deps.json
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/bin/Debug/net7.0/11-) XUnitExample.runtimeconfig.json
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/bin/Debug/net7.0/11-) XUnitExample.dll
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/bin/Debug/net7.0/11-) XUnitExample.pdb
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/bin/Debug/net7.0/11-) Entities.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/bin/Debug/net7.0/11-) ServiceContracts.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/bin/Debug/net7.0/11-) Services.dll
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/bin/Debug/net7.0/11-) ServiceContracts.pdb
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/bin/Debug/net7.0/11-) Services.pdb
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/bin/Debug/net7.0/11-) Entities.pdb
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/obj/Debug/net7.0/11-) XUnitExample.csproj.AssemblyReference.cache
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/obj/Debug/net7.0/11-) XUnitExample.GeneratedMSBuildEditorConfig.editorconfig
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/obj/Debug/net7.0/11-) XUnitExample.AssemblyInfoInputs.cache
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/obj/Debug/net7.0/11-) XUnitExample.AssemblyInfo.cs
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/obj/Debug/net7.0/11-) XUnitExample.csproj.CoreCompileInputs.cache
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/obj/Debug/net7.0/11-) XUnitExample.MvcApplicationPartsAssemblyInfo.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/obj/Debug/net7.0/11-) XUnitExample.RazorAssemblyInfo.cache
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/obj/Debug/net7.0/11-) XUnitExample.RazorAssemblyInfo.cs
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/obj/Debug/net7.0/staticwebassets/msbuild.11-) XUnitExample.Microsoft.AspNetCore.StaticWebAssets.props
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/obj/Debug/net7.0/staticwebassets/msbuild.build.11-) XUnitExample.props
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.11-) XUnitExample.props
@@ -19,6 +28,7 @@
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/obj/Debug/net7.0/staticwebassets.build.json
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/obj/Debug/net7.0/staticwebassets.development.json
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/obj/Debug/net7.0/scopedcss/bundle/11-) XUnitExample.styles.css
+/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/obj/Debug/net7.0/11-) XUnitExample.csproj.CopyComplete
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/obj/Debug/net7.0/11-) XUnitExample.dll
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/obj/Debug/net7.0/refint/11-) XUnitExample.dll
 /Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) XUnitExample/obj/Debug/net7.0/11-) XUnitExample.pdb

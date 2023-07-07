@@ -66,7 +66,7 @@ namespace _11___ServiceContracts.DTOs
                 PersonName = person.PersonName,
                 Email = person.Email,
                 DateOfBirth = person.DateOfBirth,
-                Gender = person.Gender,
+                Gender = person.Gender, 
                 CountryID = person.CountryID,
                 Address = person.Address,
                 ReceiveNewsLetters = person.ReceiveNewsLetters,

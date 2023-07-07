@@ -1,11 +1,68 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "11-) Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/11-) Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/11-) Entities.dll": {}
+        }
+      },
+      "11-) ServiceContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "11-) Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/11-) ServiceContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/11-) ServiceContracts.dll": {}
+        }
+      },
+      "11-) Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "11-) ServiceContracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/11-) Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/11-) Services.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "11-) Entities/1.0.0": {
+      "type": "project",
+      "path": "../11-) Entities/11-) Entities.csproj",
+      "msbuildProject": "../11-) Entities/11-) Entities.csproj"
+    },
+    "11-) ServiceContracts/1.0.0": {
+      "type": "project",
+      "path": "../11-) ServiceContracts/11-) ServiceContracts.csproj",
+      "msbuildProject": "../11-) ServiceContracts/11-) ServiceContracts.csproj"
+    },
+    "11-) Services/1.0.0": {
+      "type": "project",
+      "path": "../11-) Services/11-) Services.csproj",
+      "msbuildProject": "../11-) Services/11-) Services.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "11-) Entities >= 1.0.0",
+      "11-) ServiceContracts >= 1.0.0",
+      "11-) Services >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/ertugrulaydinc/.nuget/packages/": {}
@@ -33,7 +90,17 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) Entities/11-) Entities.csproj": {
+              "projectPath": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) Entities/11-) Entities.csproj"
+            },
+            "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) ServiceContracts/11-) ServiceContracts.csproj": {
+              "projectPath": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) ServiceContracts/11-) ServiceContracts.csproj"
+            },
+            "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) Services/11-) Services.csproj": {
+              "projectPath": "/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/11-) Services/11-) Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

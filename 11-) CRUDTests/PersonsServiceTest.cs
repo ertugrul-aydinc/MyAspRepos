@@ -17,7 +17,7 @@ namespace _11___CRUDTests
         public PersonsServiceTest(ITestOutputHelper testOutputHelper)
         {
             _personsService = new PersonsService();
-            _countryService = new CountryService();
+            _countryService = new CountryService(false);
             _testOutputHelper = testOutputHelper;
         }
 
@@ -266,6 +266,29 @@ namespace _11___CRUDTests
             Assert.Equal(fetchedPersonResponse, updatedPersonResponse);
         }
 
+        #endregion
+
+        #region DeletePerson
+
+        [Fact]
+        public void DeletePerson_ValidPersonID()
+        {
+            PersonResponse personResponse = AddOnePerson();
+
+            bool isDeleted =  _personsService.DeletePerson(personResponse.PersonID);
+
+            Assert.True(isDeleted);
+            
+        }
+
+        [Fact]
+        public void DeletePerson_InvalidPersonID()
+        {
+            bool isDeleted = _personsService.DeletePerson(Guid.NewGuid());
+
+            Assert.False(isDeleted);
+
+        }
         #endregion
 
         private List<PersonResponse> AddDummieData()
