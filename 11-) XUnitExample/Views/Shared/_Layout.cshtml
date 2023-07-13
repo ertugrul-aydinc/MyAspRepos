@@ -11,7 +11,7 @@
     <div class="container">
         <div class="navbar">
             <div class="navbar-brand">
-                CRUD Demo
+                <img src="~/logo.png" width="50px" asp-append-version="true "/>
             </div>
             <ul>
                 <li>
@@ -24,6 +24,8 @@
             @RenderBody()
         </div>
     </div>
+
+    @RenderSection("scripts", required:false)
 </body>
 </html>
 

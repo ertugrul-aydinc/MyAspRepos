@@ -1,31 +1,40 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{99889840-0E08-4CC3-889E-8C09FD5EED0A}|http">
   <MonoDevelop.Ide.ItemProperties.11-_229_220XUnitExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.8-_229_220HttpClientExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.3-_229_220ModelValidationExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.7-_229_220ConfigurationExample PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.5-_229_220RazorViewQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.10-_229_220StockAppQuestion PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.1-_229_220ControllerExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.9-_229_220ConfigurationQuestion PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.4-_229_220ModelValidationQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.6-_229_220ViewComonentResultExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="11-) XUnitExample/Controllers/PersonsController.cs">
+  <MonoDevelop.Ide.ItemProperties.10-_229_220StockAppQuestion PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.7-_229_220ConfigurationExample PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/CustomValidators/DateRangeValidator.cs" relfile="3-) ModelValidationExamples/CustomValidators/DateRangeValidator.cs" line="23" column="1" />
+      <Breakpoint file="/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/ModelValidationQuestion/CustomValidators/TotalPriceValidatorAttribute.cs" relfile="ModelValidationQuestion/CustomValidators/TotalPriceValidatorAttribute.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.2-_229_220ControllerQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.5-_229_220RazorViewQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="11-) Services/PersonsService.cs">
     <Files>
-      <File FileName="11-) XUnitExample/Controllers/PersonsController.cs" Line="55" Column="1" />
-      <File FileName="11-) XUnitExample/Views/Persons/Create.cshtml" />
-      <File FileName="11-) XUnitExample/Views/Persons/Index.cshtml" />
+      <File FileName="11-) XUnitExample/Controllers/PersonsController.cs" Line="125" Column="65" />
+      <File FileName="11-) XUnitExample/Views/Persons/Edit.cshtml" Line="7" Column="46" />
+      <File FileName="11-) XUnitExample/Views/Persons/Delete.cshtml" Line="10" Column="41" />
+      <File FileName="11-) XUnitExample/Views/Persons/Index.cshtml" Line="104" Column="26" />
+      <File FileName="11-) Services/PersonsService.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Asp.NetGuideFull" expanded="True">
-            <Node name="11-) CRUDTests" expanded="True" />
+            <Node name="11-) Entities" expanded="True" />
+            <Node name="11-) Services" expanded="True">
+              <Node name="PersonsService.cs" selected="True" />
+            </Node>
             <Node name="11-) XUnitExample">
-              <Node name="Controllers" expanded="True">
-                <Node name="PersonsController.cs" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views">
+                <Node name="Persons" expanded="True" />
               </Node>
-              <Node name="Views" expanded="True" />
               <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
@@ -33,13 +42,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.1-_229_220ControllerExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.2-_229_220ControllerQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/3-) ModelValidationExamples/CustomValidators/DateRangeValidator.cs" relfile="3-) ModelValidationExamples/CustomValidators/DateRangeValidator.cs" line="23" column="1" />
-      <Breakpoint file="/Users/ertugrulaydinc/Projects/Asp.NetGuideFull/ModelValidationQuestion/CustomValidators/TotalPriceValidatorAttribute.cs" relfile="ModelValidationQuestion/CustomValidators/TotalPriceValidatorAttribute.cs" line="23" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.3-_229_220ModelValidationExamples PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.8-_229_220HttpClientExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.4-_229_220ModelValidationQuestion PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

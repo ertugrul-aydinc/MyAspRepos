@@ -45,17 +45,6 @@ namespace _11___Services
                     new Person(){PersonID = Guid.Parse("6BC8B0CE-CD27-4349-A19C-41BEAD09507F"), PersonName = "Sanah", Email = "merhasj@spiegel.de", DateOfBirth = DateTime.Parse("1992-08-29"), Gender = "Female", Address = "0 Manual Parks", ReceiveNewsLetters = false, CountryID = Guid.Parse("2C1737A5-A419-4184-A740-641D12CFB418")},
                 });
 
-                /*
-,,Male,1124 Veith Way,true
-,i,,,,false
-,,,,,true
-,aoblein4@pen.io,2001-11-25,Female,56838 Summit Crossing,false
-Marve,mblowing5@tinyurl.com,1999-01-25,Male,35023 Hudson Street,true
-Blisse,bturn6@feedburner.com,1993-03-18,Female,013 Golf View Center,true
-Hercule,hcapaldi7@wix.com,1998-04-28,Male,778 Tony Plaza,true
-Geoffry,gdreakin8@w3.org,2001-08-12,Male,678 Vahlen Park,false
-Clementius,cfelgate9@wufoo.com,1997-09-04,Male,8994 Mcguire Center,false
-                 */
             }
         }
 
@@ -76,7 +65,7 @@ Clementius,cfelgate9@wufoo.com,1997-09-04,Male,8994 Mcguire Center,false
 
         public List<PersonResponse> GetAllPersons()
         {
-            return _persons.Select(p => ConvertPersonToPersonResponse(p)).ToList();
+            return _persons.Select(ConvertPersonToPersonResponse).ToList();
         }
 
         public List<PersonResponse> GetFilteredPersons(string searchBy, string? searchString)
